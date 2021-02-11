@@ -1,1 +1,3 @@
-# arlo-tms-doc
+# Arlo Training Management Software
+
+## Website Integration Settings
